@@ -4,6 +4,6 @@ The coding exercise website is [here](https://codingbat.com/java).
 
 **20200517 Record**
 
-1.BunnyEars 
+1. BunnyEars 
 
 Do not using loops & multiplication: Then using **ADD**!
