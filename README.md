@@ -13,3 +13,5 @@ Do not using loops & multiplication: Then using **ADD**!
 Think what is the correct base case and other odinary cases. 
 
 (In this case, the base case is n only have one digit which is n **/** 10 == 0, not %).
+
+3. count8 (A Little difficult)
